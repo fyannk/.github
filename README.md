@@ -15,3 +15,10 @@ its own copy. A repository that has its own file always wins.
 | [`SUPPORT.md`](SUPPORT.md) | Where to ask questions |
 | [`ISSUE_TEMPLATE/`](ISSUE_TEMPLATE) | Bug report and feature request forms |
 | [`PULL_REQUEST_TEMPLATE.md`](PULL_REQUEST_TEMPLATE.md) | Pull request checklist |
+
+## Templates
+
+[`templates/`](templates) holds the common shape for files GitHub does not
+inherit: [`README.md`](templates/README.template.md) and
+[`AGENTS.md`](templates/AGENTS.template.md). See
+[`templates/README.md`](templates/README.md) for the rules.
